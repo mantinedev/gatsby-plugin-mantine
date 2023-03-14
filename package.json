@@ -17,7 +17,7 @@
     "react-dom": "*"
   },
   "dependencies": {
-    "@mantine/ssr": "^5.0.0",
+    "@mantine/ssr": "^6.0.0",
     "@emotion/server": "^11.4.0"
   },
   "devDependencies": {}
